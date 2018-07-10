@@ -5,7 +5,7 @@ I am amateur programmer who learns new tricks and approaches via existing algori
 
 At this moment there is only routines for performing fast and high quality blur on image. See folder 'Blur' for more info.  
 
-New ported code will be added there after I will find useful code and algorithms.  
+New ported code will be added there after I will find useful code and interesting algorithms.  
 
 **Important!**  
 *All rights to the original code and algorithms are belong to their authors!*  
