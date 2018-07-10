@@ -6,7 +6,7 @@
   Web-site:
     http://incubator.quasimondo.com
   
-  Ported by
+  Ported to Delphi by
     Igor Kandyba, 07.2018
     
   It uses a special trick by first making a horizontal blur 
