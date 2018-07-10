@@ -6,7 +6,7 @@
   Web-site:
     http://incubator.quasimondo.com
   
-  Ported by
+  Ported to Delphi by
     Igor Kandyba, 07.2018
     
   Tip: Multiple invovations of this filter with a small 
