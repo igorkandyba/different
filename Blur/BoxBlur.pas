@@ -1,3 +1,18 @@
+{
+  Super Fast Blur v1.1
+  
+  Original author:
+    Mario Klingemann
+  Web-site:
+    http://incubator.quasimondo.com
+  
+  Ported by
+    Igor Kandyba, 07.2018
+    
+  Tip: Multiple invovations of this filter with a small 
+  radius will approximate a gaussian blur quite well.
+}
+
 procedure DrawBoxBlur(ABmpInOut: TBitmap; const ARadius: Integer);
 type
   PIntArray = ^TIntArray;
