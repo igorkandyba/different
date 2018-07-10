@@ -15,3 +15,4 @@ Author's web-site: http://incubator.quasimondo.com
 
 **Some notes about ported code**
  - Unless code in *'StackBlur.pas'* is really big its speed is very high. At this day, this is the fastest blur I have ever seen (without taking into account proprietary solutions).
+ - Works ONLY with 32-bit bitmaps.
