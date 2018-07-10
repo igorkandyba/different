@@ -1,13 +1,13 @@
 # Blur
 There are three files:
- - *StackBlur.pas
- - BoxBlur.pas
- - GaussBlur.pas*
+ - *StackBlur.pas*
+ - *BoxBlur.pas*
+ - *GaussBlur.pas*
  
  
 Each of file contains adaptation of the original source code I have found Internet.
 
-Original author and developer of source code is **Mario Klingemann**.
+Original author and developer of source code is **Mario Klingemann**.  
 Author's web-site: http://incubator.quasimondo.com
 
 **How to use**
