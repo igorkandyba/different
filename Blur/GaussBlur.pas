@@ -1,3 +1,20 @@
+{
+  Fast Gaussian Blur v1.3
+  
+  Original author:
+    Mario Klingemann
+  Web-site:
+    http://incubator.quasimondo.com
+  
+  Ported by
+    Igor Kandyba, 07.2018
+    
+  It uses a special trick by first making a horizontal blur 
+  on the original image and afterwards making a vertical blur 
+  on the pre-processed image. This is a mathematical correct 
+  thing to do and reduces the calculation a lot.
+}
+
 procedure DrawGaussBlur(ABmpInOut: TBitmap; const ARadius: Integer);
 type
   PIntArray = ^TIntArray;
