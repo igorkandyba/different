@@ -5,7 +5,7 @@ There are three files:
  - *GaussBlur.pas*
  
  
-Each of file contains adaptation of the original source code I have found Internet.
+Each file contains adaptation of the original source code I have found in Internet.
 
 Original author and developer of source code is **Mario Klingemann**.  
 Author's web-site: http://incubator.quasimondo.com
